@@ -1,0 +1,2 @@
+# MagnitudeAssignment
+Assignment For Magnitude
